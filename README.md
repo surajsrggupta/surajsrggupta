@@ -1,6 +1,6 @@
 # Hey, I'm Suraj Gupta 👋
 
-### Full Stack Developer | MERN · Next.js · TypeScript
+### Full Stack Developer
 
 I build real, deployed web applications — from rental marketplaces to AI-integrated tools.  
 Currently exploring the intersection of **modern web tech** and **intelligent systems**.
