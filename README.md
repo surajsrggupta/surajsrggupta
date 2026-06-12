@@ -60,12 +60,15 @@ Currently exploring the intersection of **modern web tech** and **intelligent sy
 
 ---
 
+<!-- Ye comment hai, -->
+<!-- 
 ## 📊 GitHub Stats
 
 ![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajsrggupta&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsrggupta&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+-->
 
 ## 📫 Connect With Me
 
